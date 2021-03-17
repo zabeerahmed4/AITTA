@@ -1,1 +1,1 @@
-Logistic Regression single parameter
+Logistic Regression Single Parameter
